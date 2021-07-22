@@ -24,4 +24,3 @@ Solution: https://www.codeabbey.com/index/task_solution?task=sum-in-loop&user=hi
 Problem 3: https://www.codeabbey.com/index/task_view/sums-in-loop
 You will be given several pairs of values and you need to calculate sum for each pair.
 Solution: https://www.codeabbey.com/index/task_solution?task=sums-in-loop&user=hipmonkey&lang=Python
-
